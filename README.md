@@ -1,5 +1,5 @@
 # ubuntu-python-develop-setup
-A short guide on setting up python development environments on Ubuntu, mainly for my own reference. 
+A short guide on setting up python development environments on Ubuntu, mainly for my own reference. I decided that whenever I encountered a problem I will try fix it and post the solution here. 
 
 ## make Ubuntu ready for development, make sure you install the drivers correctly
 Especially graphics drivers, if not correctly installed, can lead to a whole bunch of problems:
@@ -15,3 +15,8 @@ https://www.anaconda.com/download/#linux
 
 ## install Pycharm 
 ## install Filezella
+
+## Latex-related
+font missing `bbm`, see https://tex.stackexchange.com/questions/203184/installing-bbm-sty-in-linux for highest vote answer. 
+
+
