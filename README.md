@@ -19,4 +19,7 @@ https://www.anaconda.com/download/#linux
 ## Latex-related
 font missing `bbm`, see https://tex.stackexchange.com/questions/203184/installing-bbm-sty-in-linux for highest vote answer. 
 
+## ubuntu in virtual box, connection problem, see the high-vote short answer but not the accepted answer:
+https://askubuntu.com/questions/419327/how-can-i-make-virtualbox-guests-share-the-hosts-vpn-connection
+
 
